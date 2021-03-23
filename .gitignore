@@ -1,0 +1,9 @@
+# Compiled source #
+###################
+*.pyc
+*.py~
+.pytest_cache/*
+
+# Other #
+#########
+.ipynb_checkpoints/*

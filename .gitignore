@@ -1,2 +1,4 @@
 # Notebooks 
 *.ipynb_checkpoints*
+
+*.fits

@@ -1,2 +1,7 @@
 # Notebooks 
 *.ipynb_checkpoints*
+
+# Environments
+env*/
+
+*.fits

@@ -1,3 +1,6 @@
 decorator==4.4.2
 astropy==4.2.1
 jdaviz==1.1
+specutils>=1.1
+scipy
+matplotlib

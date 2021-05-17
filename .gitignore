@@ -1,4 +1,10 @@
 # Notebooks 
 *.ipynb_checkpoints*
 
+<<<<<<< HEAD
+=======
+# Environments
+env*/
+
+>>>>>>> bab5c5b16af6d8fd9f96b2d3d53c7836c92fb5d9
 *.fits

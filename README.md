@@ -4,11 +4,11 @@
 
 This Branch is a frozen version for JWebbinar 1 "Pipeline information and data products". If you want a version of the materials that is being maintained, see the `main` branch of this repository.
 
-To download the material, you can clone this repository and navigate to this folder:
-`git clone https://github.com/spacetelescope/jwebbinar_prep.git ~/my_jwebbinar_prep`
-`cd ~/my_jwebbinar_prep`
-`git checkout webbinar1`
-`cd pipeline_products_session`
+To download the material, you can clone this repository and navigate to this folder:\n
+`git clone https://github.com/spacetelescope/jwebbinar_prep.git ~/my_jwebbinar_prep`\n
+`cd ~/my_jwebbinar_prep`\n
+`git checkout webbinar1`\n
+`cd pipeline_products_session`\n
 
 Alternatively, you can manually download the individual notebooks by clicking on the pipeline_product_session folder, then click on each file, and right-click on "Raw" to select "Save link as".
 

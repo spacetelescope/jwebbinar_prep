@@ -1,6 +1,5 @@
 astropy==4.2.1
-jdaviz==1.1
-specutils>=1.2
 matplotlib>=3.3.2
+git+https://github.com/rosteen/jdaviz.git@model-3d-bug
 
 

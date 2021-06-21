@@ -2,6 +2,6 @@
 
 This space is for internal use. Material for the JWebbinars can be added here for sharing and reviewing.
 
-## Branch frozen for Webbinar 1
+## Branch for active webbinar
 
-This Branch is a frozen version for Webbinar 1. If you want a version of the materials that is being maintained, see the `main` branch of this repository.
+This Branch is a version of the active webbinar. If you want a version of the materials that is being maintained, see the `main` branch of this repository.

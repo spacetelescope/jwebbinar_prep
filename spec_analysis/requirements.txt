@@ -1,6 +1,6 @@
 astropy>=4.2.1
 matplotlib>=3.3.2
 git+https://github.com/spacetelescope/jdaviz.git
-git+https://github.com/specutils
 jwst>=1.1.0
 photutils>=1.1.0
+specutils>=1.4.1

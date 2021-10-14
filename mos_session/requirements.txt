@@ -1,6 +1,4 @@
-astropy==4.2.1
+astropy>=4.2.1
 matplotlib>=3.3.2
-git+https://github.com/spacetelescope/jdaviz.git
+jdaviz==2.0.0
 jwst==1.1.0
-
-

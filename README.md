@@ -24,6 +24,6 @@ Or if you are using anaconda, you first create an environment with the name of y
 `pip install -r requirements.txt`  
 `pip install jupyter`  
 
-You can now run `jupyter notebook` in the folder where you have downloaded the webinar notebooks.
+You can now run `jupyter notebook` in the folder where you have downloaded the webinar notebooks. The dataset used during the webinar is not yet publicly available. Because of this, the two notebooks do not point at any dataset at the moment. To be able to run the notebooks from top to bottom, you will need to input your own dataset. We will update the two notebooks with a publicly available dataset in the near future.
 
 If you have problems or questions, feel free to reach out to the JWST Help Desk at http://jwsthelp.stsci.edu/.

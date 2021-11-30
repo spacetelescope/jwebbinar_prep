@@ -1,7 +1,9 @@
-# Notebooks 
+# Notebooks
 *.ipynb_checkpoints*
 
 # Environments
 env*/
 
 *.fits
+
+*.DS_Store

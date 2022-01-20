@@ -1,9 +1,0 @@
-numpy==1.20.2
-pandas==1.2.3
-astropy==4.2.1
-photutils==1.1.0
-jwst@git+https://github.com/spacetelescope/jwst.git@1.1.0
-webbpsf==0.9.1
-pysynphot==1.0.0
-matplotlib==3.4.1
-scipy==1.6.1

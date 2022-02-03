@@ -41,7 +41,7 @@ def fix_header(image):
     im.save(image)
 
 
-def apply_custom_flat(image, suffix='_unflat.fits'):
+def apply_custom_flat(image, suffix='_unflat.fits', data_dir='.'):
     """Apply a custom flat to NRCA5 cal images to remove an extra feature
 
     The feature is likely the result of reference file flipping about x
@@ -78,7 +78,7 @@ def apply_custom_flat(image, suffix='_unflat.fits'):
     # get image filter
     filt = im.meta.instrument.filter
     log.info('Applying custom flat for NRCA5 %s'%filt)
-    customflat = 'customflats/ceers5_customflat_nrca5_%s.fits'%filt.lower()
+    customflat = os.path.join(data_dir, 'customflats/ceers5_customflat_nrca5_%s.fits'%filt.lower())
     log.info('Custom flat: %s'%customflat)
     log.info('Applying to %s'%image)
 

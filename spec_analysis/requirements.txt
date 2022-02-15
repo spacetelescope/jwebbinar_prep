@@ -1,6 +1,0 @@
-astropy>=4.2.1
-matplotlib>=3.3.2
-jwst>=1.1.0
-photutils>=1.1.0
-specutils>=1.4.1
-jdaviz>=2.0.0

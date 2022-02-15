@@ -1,9 +1,0 @@
-asdf>=2.7.2
-astropy>=4.2
-gwcs>=0.16.1
-ipython>=7.20.0
-jupyter>=6.2.0
-jwst>=0.18.3
-matplotlib>=3.3.4
-numpy>=1.20.1
-crds>=10.3.7

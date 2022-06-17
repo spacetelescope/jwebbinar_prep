@@ -2,7 +2,7 @@
 
 ## Branch frozen for Webbinar 2
 
-This Branch is a frozen version for JWebbinar 2 "Introduction to the JWST Data Analysis Tools". If you want a version of the materials that is being maintained, see the `main` branch of this repository.
+This Branch is a frozen version for JWebbinar 2 "Introduction to the JWST Data Analysis Tools". If you want a version of the materials that is being maintained and updates to the latest versions of the packages, see the `main` branch of this repository.
 
 To download the material, you can clone this repository and navigate to this folder:  
 `git clone https://github.com/spacetelescope/jwebbinar_prep.git ~/my_jwebbinar_prep`  

@@ -13,11 +13,19 @@ Alternatively, you can manually download the individual notebooks by clicking on
 
 To run these notebooks locally, you will need a Python environment set up that is capable of running Jupyter notebooks. If you are new to Python, you may want to look here: https://www.python.org/about/gettingstarted/ for some resources on how to install and learn the basics of Python. Depending on your preferences and system choices, you may find the install instructions there sufficient, but note that many scientists find it easier to use the Anaconda python distribution and package manager: https://www.anaconda.com/products/individual.
 
-Using anaconda o miniconda, you first create an environment with the name of your choice (we use `jwebbinar` for this example):  
+Using anaconda o miniconda, you first create an environment with the name of your choice (we use `jwebbinar` for this example) and then you install the necessary packages:  
 `conda create -n jwebbinar python=3.9`  
 `conda activate jwebbinar`  
 `pip install jwst`  
 `pip install jdaviz`  
+
+For JWebbinar 6 (pointsource_imaging), you should also include:  
+`pip install pysynphot`  
+`pip install git+https://github.com/spacetelescope/webbpsf.git`  
+Make sure to follow the instruction on where to store the reference files needed by these two packages.
+
+For JWebbinar 10 (simulators_session) and 15 (pdrs4all), you will need to install the simulation software MIRAGE. Instructions can be found here:  
+https://mirage-data-simulator.readthedocs.io/en/latest/install.html
 
 You can now run `jupyter notebook` in the folder where you have downloaded the webinar notebooks.
 

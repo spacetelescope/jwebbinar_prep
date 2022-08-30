@@ -1,3 +1,0 @@
-astropy==5.1
-astroquery==0.4.6
-notebooks==6.4.12

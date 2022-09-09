@@ -1,0 +1,4 @@
+astropy>=5.0.4
+astroquery==https://github.com/astropy/astroquery
+matplotlib>=3.5.0rc1
+notebooks==6.4.12

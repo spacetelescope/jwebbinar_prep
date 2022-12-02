@@ -1,0 +1,3 @@
+
+git+https://github.com/PAHdb/pyPAHdb.git
+git+https://github.com/PAHdb/AmesPAHdbPythonSuite.git

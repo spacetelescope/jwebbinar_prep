@@ -69,8 +69,8 @@ class Spectrum:
 
         """
         if templates == 'Foschino':
-            wave_elementary_axis_filename = 'Data/Elementary_spectra_Foschino_wave.fits'
-            elementary_spectra = 'Data/Elementary_spectra_Foschino.fits'
+            wave_elementary_axis_filename = '/home/shared/preloaded-fits/pahtat/Elementary_spectra_Foschino_wave.fits'
+            elementary_spectra = '/home/shared/preloaded-fits/pahtat/Elementary_spectra_Foschino.fits'
         else:
             raise NameError('Templates name is not a valid one, try to type "Foschino"')
         self.spectrum_to_fit = spectrum_to_fit

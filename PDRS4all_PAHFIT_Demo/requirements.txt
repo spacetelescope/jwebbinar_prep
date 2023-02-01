@@ -1,2 +1,0 @@
-
-git+https://github.com/PAHFIT/pahfit.git@dev_yaml-scipack+api

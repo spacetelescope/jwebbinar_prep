@@ -27,6 +27,8 @@ Install jdaviz
 Then you can get the material by cloning a branch of the jwebbinar_prep
 repository with git
   git clone https://github.com/spacetelescope/jwebbinar_prep.git --branch current_webbinar
+This includes a notebook example to query and download data from MAST and
+three notebooks to run the examples at points 3, 4, and 5 above.
 The data used in the notebooks are quite heavy (lots of photons!). It would
 be ideal if you could download these before the presentation starts.
 
@@ -35,7 +37,8 @@ downloads, we are interested to see the problems and we will help you debug,
 but if there is not enough time to debug your problem in person,
 you can use the science platform: https://jwebbinar.science.stsci.edu/
 This is not available at all times, but it will be ready just before the presentation
-and available for some time after the presentation.
+and available for some time after the presentation. **You will need a MyST account
+to access it.**
 
 Data downloads
 --------------

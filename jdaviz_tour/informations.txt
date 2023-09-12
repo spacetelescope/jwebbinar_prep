@@ -26,7 +26,7 @@ Install jdaviz
   pip install jdaviz
 Then you can get the material by cloning a branch of the jwebbinar_prep
 repository with git
-  git clone https://github.com/spacetelescope/jwebbinar_prep.git --branch current_webbinar
+  git clone https://github.com/spacetelescope/jwebbinar_prep.git --branch jdaviz-tour
 This includes a notebook example to query and download data from MAST and
 three notebooks to run the examples at points 3, 4, and 5 above.
 The data used in the notebooks are quite heavy (lots of photons!). It would
@@ -49,9 +49,3 @@ https://stsci.box.com/s/xdanumd5mn21xki2ofpz6cr0rnlhmbxv
 https://stsci.box.com/s/hpno6kmjs33ih7il5u5lddzi0m3m29k8
 Moons and planets (folder):
 https://stsci.box.com/s/y77o8q14vd9k2e3ycjafgjo7kdoeu3al
-
-Communication
--------------
-To easily share problems snd questions, we can use the JWebbinar slack space
-in the channel #jdaviz_tour.
-https://join.slack.com/t/jwebbinars/shared_invite/zt-1p71rl5r6-qWnsLFucoFYyU8BJUY0SuQ

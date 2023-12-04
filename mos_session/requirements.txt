@@ -1,5 +1,0 @@
-astropy>=4.2.1
-matplotlib>=3.3.2
-jdaviz>=2.0.0
-jwst==1.2.3
-stdatamodels<0.3.0

@@ -177,4 +177,4 @@ dependencies:
       - webcolors==1.13
       - websocket-client==1.6.4
       - wiimatch==0.3.1
-prefix: /Users/zeidler/anaconda3/envs/masterclass
+prefix: /Users/jovyan/anaconda3/envs/masterclass

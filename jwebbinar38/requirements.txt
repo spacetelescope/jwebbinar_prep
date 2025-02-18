@@ -1,0 +1,2 @@
+photutils[all]
+ipympl

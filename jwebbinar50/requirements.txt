@@ -1,0 +1,9 @@
+jupyter
+pysiaf
+numpy
+astropy
+specutils
+astroquery
+photutils
+jdaviz >= 5.0.2
+ 

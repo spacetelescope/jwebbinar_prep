@@ -1,0 +1,9 @@
+# Keep the small FITS inputs required by the workshop.
+!data/stellar/grid/ck04models/catalog.fits
+!data/stellar/grid/ck04models/ckp02/ckp02_3500.fits
+!data/observations/jw01230-o007_t001-s000000001_nirspec_f290lp-g395m-s200a1-subs200a1_x1d.fits
+!data/observations/jw02327-o001_t001_nirspec_f290lp-g395m-s1600a1-sub2048_x1dints.fits
+
+# Local source backups and files generated while running notebooks.
+archive/
+data/generated/

@@ -1,0 +1,5 @@
+# Python 3.11 or 3.12; PICASO master requires Virga 2.0.2.
+picaso @ git+https://github.com/natashabatalha/picaso.git@master
+virga-exo==2.0.2
+jupyterlab
+ipykernel

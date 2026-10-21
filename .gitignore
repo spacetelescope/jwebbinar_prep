@@ -5,5 +5,14 @@
 env*/
 
 *.fits
+!jwebbinar53/jw01230-o007_t001-s000000001_nirspec_f290lp-g395m-s200a1-subs200a1_x1d.fits
+!jwebbinar53/jw02327-o001_t001_nirspec_f290lp-g395m-s1600a1-sub2048_x1dints.fits
 
 *.DS_Store
+__pycache__/
+
+# JWebbinar 53: large downloaded input and generated outputs
+jwebbinar53/.venv/
+jwebbinar53/picaso_reference/opacities/opacities*.db
+jwebbinar53/picaso_reference/opacities/*.tar.gz
+jwebbinar53/water_cloud_work/

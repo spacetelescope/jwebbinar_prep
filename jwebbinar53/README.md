@@ -4,7 +4,7 @@ Start with the three numbered notebooks in this folder. Their code cells are rea
 
 | Notebook | Topic |
 | --- | --- |
-| `01_JWebbinar_OCDb_to_ModelReadyData.ipynb` | Turn optical constants into model ready data |
+| `01_JWebbinar_OCDb_to_ModelReadyData.ipynb` | Turn optical constants from OCdb into a format ready to use in PICASO and Virga |
 | `02_JWebbinar_WaterClouds.ipynb` | Model a 250 K brown dwarf with and without water clouds, then compare JWST spectra |
 | `03_JWebbinar_OCDb_Hazy_SubNeptune.ipynb` | Use OCdb data in a hazy sub Neptune model |
 
@@ -14,4 +14,3 @@ All small inputs used by the exercises are in [`data/`](data/): `ocdb/` holds do
 
 [`picaso_reference/`](picaso_reference/) contains the small PICASO inputs. The large PICASO gas opacity database is kept locally but excluded from Git. On first run, notebooks 02 and 03 download it into `picaso_reference/opacities/` if it is missing. Allow time and several gigabytes of disk space for this first download. The saved notebook 02 solution used the local gas database for both clear and cloudy spectra.
 
-The [`archive/`](archive/) folder contains earlier versions and collaborator material and is excluded from Git. It is not needed for the workshop.
